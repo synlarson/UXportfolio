@@ -18666,8 +18666,6 @@ figure img {
     width: 100%;
     max-width: 100%;
     -webkit-mask-size: auto auto;
-    
-    mask-image: url(file:///Users/synclairlarson/Desktop/portfolio2.0/img%20copy/blob.svg);
 }
 .map iframe {
     display: block;
